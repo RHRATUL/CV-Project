@@ -1,0 +1,212 @@
+.container{
+    max-width: 1200px;
+    overflow: hidden;
+    margin: 0 auto;
+  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+  
+}
+#sec1{
+margin-top: 5px;
+border-bottom: 2px dashed black;
+background-color: greenyellow;
+
+}
+
+.head-top{
+
+ 
+    height: 200px;
+}
+
+.leftcontent-img{
+width: 15%;
+
+}
+.leftcontent-img img:hover{
+
+   
+   border: 2px dashed red;
+    border-radius: 50%;
+    transform: scale(1.2);
+}
+
+
+.leftcontent-img img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 20px 20px;
+    transition-duration: .7s;
+}
+
+
+
+.leftcontent-text{
+    width: 300px;
+    
+margin-left: 190px;
+ 
+margin-top: -120px;
+}
+
+.rightcontent{
+
+
+max-width: 30%;
+float: right;
+margin-top: -50px;
+margin-right: 10px;
+}
+
+.rightcontent-text h3,h4,a{
+
+margin: 5px;
+text-decoration: none;
+color: black;
+}
+
+
+/*---------------------Section 2 css-----------------------------------------*/
+
+#sction2{
+
+}
+
+.fa-briefcase{
+    padding: 50px 20px;
+}
+.experience-content{
+    padding-bottom: 30px;
+border-bottom: 2px dashed black;
+
+}
+
+.experience-left{
+margin-top: 20px;
+width: 50%;
+
+border-right: 2px dashed black;
+
+}
+
+.experience-left h3{
+    color: blue;
+}
+
+.experience-right{
+   
+    width: 40%;
+    float: right;
+    
+    
+    margin-left: 190px;
+     
+    margin-top: -280px;
+    
+
+}
+.experience-right h3{
+    padding-bottom: 10px;
+    color: blue;
+}
+
+/*---------------------This is Education Section------------------------------*/
+
+#section-3{
+margin-top: 20px;
+
+}
+
+.left-education{
+width: 50%;
+border-right: 2px dashed black;
+
+}
+
+.education-content{
+
+
+}
+
+
+.education-content h3{
+color: blue;
+
+}
+
+.college{
+margin-top: 10px;
+
+}
+
+.school{
+    margin-top: 10px;
+}
+
+/*-----------------Right Content----------------*/
+
+.right-content{
+
+   
+    width: 40%;
+    float: right;
+    
+    
+    margin-left: 190px;
+     
+    margin-top: -200px;
+    
+}
+
+
+
+.technical-skill > h3{
+
+    color: blue;
+
+}
+
+.carer-goal{
+
+padding-top: 10px;
+}
+
+.carer-goal >h3
+{
+    color: blue;
+}
+.interest{
+
+    padding-top: 10px;
+}
+
+.interest >h3{
+color: blue;
+}
+
+/*----------Footer Section-----------*/
+
+#footer{
+    margin-top: 10px;
+ 
+}
+
+.footer-content{
+
+    height: 60px;
+    background-color: chartreuse;
+    font-size: 20px;
+    text-align: center;
+  padding-top: 15px;
+  font-weight: 700;
+}

@@ -1,0 +1,190 @@
+@media screen and (max-width: 896px) {
+
+    .rightcontent{
+
+        margin-top: 50px;
+        margin-right: 240px;
+        margin-left: 10px;
+        margin-bottom: 50px;
+       
+        }
+        .rightcontent-text{
+            margin-top: 10px;
+            width: 400px;
+            height: 100px;
+            
+            text-align: justify;
+            padding: 10px;
+        }
+        .rightcontent-text h3,h4,a{
+        
+        margin: 5px;
+        text-decoration: none;
+        color: black;
+        }
+
+        .leftcontent-text{
+            
+      
+        width: 150px;
+        height: 50px;
+  
+        }
+
+       .container{
+           margin-left: 10px;
+           
+       }
+.experience-left{
+    width: 55%;
+}
+
+.experience-right{
+   
+    width: 40%;
+    float: right;
+    
+    
+    margin-left: 190px;
+     
+    margin-top: -530px;
+    
+
+}
+
+.right-content{
+
+   
+    width: 48%;
+    float: right;
+    
+    
+    margin-left: 300px;
+     
+    margin-top: -255px;
+
+   
+    
+}
+
+#footer{
+    margin-top: 10px;
+ 
+}
+
+.footer-content{
+
+    height: 70px;
+    background-color: chartreuse;
+    font-size: 20px;
+    text-align: center;
+  padding-top: 15px;
+  font-weight: 700;
+}
+
+
+}
+
+@media screen and (max-width: 740px){
+    .footer-content{
+
+        height: 90px;
+        background-color: chartreuse;
+        font-size: 20px;
+        text-align: center;
+      padding-top: 15px;
+      font-weight: 700;
+    }
+
+    .experience-right{
+   
+        width: 40%;
+        float: right;
+        
+        
+        margin-left: 190px;
+         
+        margin-top: -555px;
+        
+    
+    }
+
+}
+
+@media screen and (max-width: 812px){
+    .experience-right{
+   
+        width: 40%;
+        float: right;
+        
+        
+        margin-left: 190px;
+         
+        margin-top: -550px;
+        
+    
+    }
+    
+}
+
+@media screen and (max-width: 846px){
+   
+    
+}
+
+@media screen and (max-width: 812px){
+    .experience-right{
+   
+        width: 40%;
+        float: right;
+        
+        
+        margin-left: 190px;
+         
+        margin-top: -530px;
+        
+    
+    }
+    
+}
+
+@media screen and (max-width: 786px){
+    
+    
+}
+
+@media screen and (max-width: 800px){
+    .experience-right{
+   
+        width: 40%;
+        float: right;
+        
+        
+        margin-left: 190px;
+         
+        margin-top: -600px;
+        
+    
+    }
+    
+}
+@media screen and (max-width: 667px){
+   
+    
+}
+
+@media screen and (max-width: 736px){
+    .experience-right{
+   
+        width: 40%;
+        float: right;
+        
+        
+        margin-left: 190px;
+         
+        margin-top: -540px;
+        
+    
+    }
+    
+}
